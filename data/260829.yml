@@ -1,0 +1,61 @@
+about:
+  description: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+  license: Apache-2.0
+  homepage: https://docs.nvidia.com/skills/scanning-agent-skills
+  head: 1b87593
+  archived: false
+  latestVersion: v2.11.0
+  collectedAt: 2026-08-29T07:16:28Z
+timeline:
+  created: 2026-03-21
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 15149
+  watcher: 54
+  fork: 1270
+  release: 14
+  contributor: 72
+  pullRequest: 78
+  issue: 180
+language:
+  Python: 3829333
+  YARA: 18669
+  Makefile: 5705
+  TypeScript: 5601
+  Shell: 2248
+  Dockerfile: 596
+totalLine: 3862152
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 13
+    mergedPR: 54
+    openPR: 23
+    closedIssue: 21
+    openIssue: 22
+    commit: 78
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 189
+    openPR: 37
+    closedIssue: 132
+    openIssue: 45
+    commit: 260
+  last180d:
+    since: 2026-03-02
+    release: 14
+    mergedPR: 191
+    openPR: 38
+    closedIssue: 135
+    openIssue: 45
+    commit: 265
+  last360d:
+    since: 2025-09-03
+    release: 14
+    mergedPR: 191
+    openPR: 38
+    closedIssue: 135
+    openIssue: 45
+    commit: 265

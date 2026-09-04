@@ -7,15 +7,15 @@ about:
   head: 7805bb9
   archived: false
   latestVersion: v2.11.0
-  collectedAt: 2026-09-04T19:49:57Z
+  collectedAt: 2026-09-04T20:49:32Z
 timeline:
   created: 2026-03-21
   lastCommit: 2026-08-31
   lastRelease: 2026-08-28
 popularity:
-  star: 16126
+  star: 16137
   watcher: 62
-  fork: 1369
+  fork: 1370
   release: 14
   contributor: 67
   pullRequest: 283
@@ -85,5 +85,58 @@ total:
   openIssue: 51
   commit: 412
 ---
+path: /home/runner/.x-repo/github.com/nvidia/skillspector
+collectedAt: 2026-09-04T20:49:33Z
+loc:
+  Python:
+    code: 91385
+    comments: 5035
+    blanks: 13455
+    files: 222
+  Yaml:
+    code: 136
+    comments: 116
+    blanks: 28
+    files: 11
+  TypeScript:
+    code: 121
+    comments: 0
+    blanks: 21
+    files: 1
+  Makefile:
+    code: 112
+    comments: 20
+    blanks: 22
+    files: 1
+  Toml:
+    code: 106
+    comments: 3
+    blanks: 13
+    files: 1
+  Json:
+    code: 76
+    comments: 0
+    blanks: 0
+    files: 4
+  Sh:
+    code: 50
+    comments: 1
+    blanks: 13
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5709
+    blanks: 1951
+    files: 73
+total:
+  code: 92509
+  comments: 10975
+  blanks: 15586
+  files: 315
 ---
 

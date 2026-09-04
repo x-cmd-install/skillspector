@@ -1,22 +1,24 @@
 about:
-  description: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+  description:
+  |
+    Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
   license: Apache-2.0
   homepage: https://docs.nvidia.com/skills/scanning-agent-skills
   head: 7805bb9
   archived: false
   latestVersion: v2.11.0
-  collectedAt: 2026-09-04T04:55:05Z
+  collectedAt: 2026-09-04T19:49:57Z
 timeline:
   created: 2026-03-21
   lastCommit: 2026-08-31
   lastRelease: 2026-08-28
 popularity:
-  star: 15935
-  watcher: 60
-  fork: 1356
+  star: 16126
+  watcher: 62
+  fork: 1369
   release: 14
-  contributor: 73
-  pullRequest: 88
+  contributor: 67
+  pullRequest: 283
   issue: 188
 language:
   Python: 4225862
@@ -25,7 +27,7 @@ language:
   TypeScript: 5601
   Shell: 2248
   Dockerfile: 596
-totalLine: 4258681
+totalBytes: 4258681
 recent:
   last30d:
     since: 2026-08-05
@@ -35,6 +37,14 @@ recent:
     closedIssue: 14
     openIssue: 26
     commit: 74
+  last60d:
+    since: 2026-07-06
+    release: 14
+    mergedPR: 86
+    openPR: 35
+    closedIssue: 39
+    openIssue: 37
+    commit: 123
   last90d:
     since: 2026-06-06
     release: 14
@@ -59,3 +69,21 @@ recent:
     closedIssue: 137
     openIssue: 51
     commit: 280
+  last720d:
+    since: 2024-09-14
+    release: 14
+    mergedPR: 195
+    openPR: 48
+    closedIssue: 137
+    openIssue: 51
+    commit: 412
+total:
+  release: 14
+  mergedPR: 195
+  openPR: 48
+  closedIssue: 137
+  openIssue: 51
+  commit: 412
+---
+---
+

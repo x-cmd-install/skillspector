@@ -2,21 +2,21 @@ about:
   description: "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
   license: Apache-2.0
   homepage: https://docs.nvidia.com/skills/scanning-agent-skills
-  head: 88eedca
+  head: 704bc95
   archived: false
-  latestVersion: "v2.11.0"
-  collectedAt: 2026-09-07T06:11:31Z
+  latestVersion: "v2.11.1"
+  collectedAt: 2026-09-07T18:21:17Z
 timeline:
   created: 2026-03-21
-  lastCommit: 2026-09-06
-  lastRelease: 2026-08-28
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
-  star: 16440
-  watcher: 64
-  fork: 1399
-  release: 14
+  star: 16532
+  watcher: 65
+  fork: 1408
+  release: 15
   contributor: 67
-  pullRequest: 290
+  pullRequest: 292
   issue: 191
 language:
   Python: 4227673
@@ -29,62 +29,62 @@ totalBytes: 4260492
 recent:
   last30d:
     since: 2026-08-08
-    release: 9
-    mergedPR: 41
-    openPR: 39
+    release: 10
+    mergedPR: 42
+    openPR: 40
     closedIssue: 15
     openIssue: 28
-    commit: 70
+    commit: 71
   last60d:
     since: 2026-07-09
-    release: 14
-    mergedPR: 82
-    openPR: 41
+    release: 15
+    mergedPR: 83
+    openPR: 42
     closedIssue: 38
     openIssue: 39
-    commit: 117
+    commit: 118
   last90d:
     since: 2026-06-09
-    release: 14
-    mergedPR: 191
-    openPR: 51
+    release: 15
+    mergedPR: 192
+    openPR: 52
     closedIssue: 131
     openIssue: 51
-    commit: 259
+    commit: 260
   last180d:
     since: 2026-03-11
-    release: 14
-    mergedPR: 196
-    openPR: 54
+    release: 15
+    mergedPR: 197
+    openPR: 55
     closedIssue: 138
     openIssue: 53
-    commit: 287
+    commit: 288
   last360d:
     since: 2025-09-12
-    release: 14
-    mergedPR: 196
-    openPR: 54
+    release: 15
+    mergedPR: 197
+    openPR: 55
     closedIssue: 138
     openIssue: 53
-    commit: 287
+    commit: 288
   last720d:
     since: 2024-09-17
-    release: 14
-    mergedPR: 196
-    openPR: 54
+    release: 15
+    mergedPR: 197
+    openPR: 55
     closedIssue: 138
     openIssue: 53
-    commit: 420
+    commit: 422
 total:
-  release: 14
-  mergedPR: 196
-  openPR: 54
+  release: 15
+  mergedPR: 197
+  openPR: 55
   closedIssue: 138
   openIssue: 53
-  commit: 420
+  commit: 422
 ---
 path: /home/runner/.x-repo/github.com/nvidia/skillspector
-collectedAt: 2026-09-07T06:11:34Z
+collectedAt: 2026-09-07T18:21:21Z
 loc:
   Python:
     code: 91432
@@ -128,19 +128,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 5716
-    blanks: 1954
-    files: 73
+    comments: 5771
+    blanks: 1977
+    files: 74
 total:
   code: 92556
-  comments: 10982
-  blanks: 15596
-  files: 315
+  comments: 11037
+  blanks: 15619
+  files: 316
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:11:39+00:00
+  collectedAt: 2026-09-07T18:21:24+00:00
   platform:
     darwin/arm64:
       name:  null

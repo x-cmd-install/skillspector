@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.2"
   latestRelease: "v2.11.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:20:01Z
+  collectedAt: 2026-09-10T21:16:48Z
 timeline:
   created: 2026-03-21
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 16875
+  star: 16888
   watcher: 69
-  fork: 1433
+  fork: 1434
   release: 16
   contributor: 67
   pullRequest: 314
-  issue: 198
+  issue: 199
 language:
   Python: 4237321
   YARA: 18669
@@ -37,7 +37,7 @@ recent:
     mergedPR: 42
     openPR: 57
     closedIssue: 15
-    openIssue: 34
+    openIssue: 35
     commit: 76
   last60d:
     since: 2026-07-12
@@ -45,7 +45,7 @@ recent:
     mergedPR: 85
     openPR: 60
     closedIssue: 39
-    openIssue: 44
+    openIssue: 45
     commit: 123
   last90d:
     since: 2026-06-12
@@ -53,7 +53,7 @@ recent:
     mergedPR: 190
     openPR: 70
     closedIssue: 128
-    openIssue: 56
+    openIssue: 57
     commit: 265
   last180d:
     since: 2026-03-14
@@ -61,7 +61,7 @@ recent:
     mergedPR: 201
     openPR: 72
     closedIssue: 139
-    openIssue: 59
+    openIssue: 60
     commit: 293
   last360d:
     since: 2025-09-15
@@ -69,7 +69,7 @@ recent:
     mergedPR: 201
     openPR: 72
     closedIssue: 139
-    openIssue: 59
+    openIssue: 60
     commit: 293
   last720d:
     since: 2024-09-20
@@ -77,18 +77,18 @@ recent:
     mergedPR: 201
     openPR: 72
     closedIssue: 139
-    openIssue: 59
+    openIssue: 60
     commit: 431
 total:
   release: 16
   mergedPR: 201
   openPR: 72
   closedIssue: 139
-  openIssue: 59
+  openIssue: 60
   commit: 431
 ---
 path: /home/runner/.x-repo/github.com/nvidia/skillspector
-collectedAt: 2026-09-10T18:20:03Z
+collectedAt: 2026-09-10T21:16:50Z
 loc:
   Python:
     code: 91643

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 537698,
       "digest": "sha256:9e0eb261d63e7ae92f94177a44aeb8fef5e0ceeaa4d09135780baf94cbc420ec",
-      "download_count": 2,
+      "download_count": 67,
       "created_at": "2026-09-09T20:27:37Z",
       "updated_at": "2026-09-09T20:27:37Z",
       "browser_download_url": "https://github.com/NVIDIA/SkillSpector/releases/download/v2.11.2/skillspector-2.11.2-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1205842,
       "digest": "sha256:887132ba2c7fe69d32c15209f3e9adb37fb7457050ef3de39c54360f9fd5996f",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T20:27:37Z",
       "updated_at": "2026-09-09T20:27:37Z",
       "browser_download_url": "https://github.com/NVIDIA/SkillSpector/releases/download/v2.11.2/skillspector-2.11.2.tar.gz"

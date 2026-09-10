@@ -38,7 +38,7 @@ Total: **92,258** lines of code across **236** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16,888 · **Forks**: 1,434 · **Open issues**: 199 · **Contributors**: 67
+- **Stars**: 16,893 · **Forks**: 1,435 · **Open issues**: 199 · **Contributors**: 67
 
 ## Totals (cumulative)
 
@@ -80,4 +80,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:16:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:42:47Z._

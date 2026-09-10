@@ -12,36 +12,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 x install skillspector
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/nvidia/skillspector>
-- **Homepage**: <https://docs.nvidia.com/skills/scanning-agent-skills>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v2.11.2` (2026-09-09)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 2
-- **Published**: 2026-09-09T20:27:37Z
-
-## Popularity
-
-- **Stars**: 16,810 · **Forks**: 1,428 · **Open issues**: 197 · **Contributors**: 67
-
-## Totals (cumulative)
-
-- **Releases**: 16 · **Merged PRs**: 200 · **Open PRs**: 67 · **Closed issues**: 139 · **Open issues**: 58 · **Commits**: 431
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 41 | 52 | 15 | 33 | 76 |
-| 90d | 2026-06-12 | 16 | 189 | 65 | 128 | 55 | 265 |
-| 360d | 2025-09-15 | 16 | 200 | 67 | 139 | 58 | 293 |
-
-## Code size
+## Code insight
 
 Total: **92,258** lines of code across **236** files in the top 5 languages.
 
@@ -53,13 +24,60 @@ Total: **92,258** lines of code across **236** files in the top 5 languages.
 | Makefile | 112 | 20 | 22 | 1 |
 | Toml | 106 | 3 | 13 | 1 |
 
+## Source
+
+- **Upstream**: <https://github.com/nvidia/skillspector>
+- **Homepage**: <https://docs.nvidia.com/skills/scanning-agent-skills>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v2.11.2` (2026-09-09)
+- **Last commit**: 2026-09-09
+- **Assets in release**: 2
+
+## Popularity
+
+- **Stars**: 16,888 · **Forks**: 1,434 · **Open issues**: 199 · **Contributors**: 67
+
+## Totals (cumulative)
+
+- **Releases**: 16 · **Merged PRs**: 201 · **Open PRs**: 72 · **Closed issues**: 139 · **Open issues**: 60 · **Commits**: 431
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 9 | 42 | 57 | 15 | 35 | 76 |
+| last60d | 2026-07-12 | 16 | 85 | 60 | 39 | 45 | 123 |
+| 90d | 2026-06-12 | 16 | 190 | 70 | 128 | 57 | 265 |
+| last180d | 2026-03-14 | 16 | 201 | 72 | 139 | 60 | 293 |
+| 360d | 2025-09-15 | 16 | 201 | 72 | 139 | 60 | 293 |
+| last720d | 2024-09-20 | 16 | 201 | 72 | 139 | 60 | 431 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [skillspector-2.11.2-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.11.2/skillspector-2.11.2-py3-none-any.whl) | 525.1 KiB | `other` |
+| [skillspector-2.11.2.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.11.2/skillspector-2.11.2.tar.gz) | 1.1 MiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/skillspector). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.11.2` | ✅ latest |
+| openSUSE Tumbleweed | `2.11.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for skillspector lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `skillspector` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/skillspector.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/skillspector.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:25:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:16:54Z._

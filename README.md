@@ -33,27 +33,27 @@ Total: **92,258** lines of code across **236** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.11.2` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-12
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 16,957 · **Forks**: 1,444 · **Open issues**: 200 · **Contributors**: 67
+- **Stars**: 16,986 · **Forks**: 1,445 · **Open issues**: 201 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 201 · **Open PRs**: 75 · **Closed issues**: 139 · **Open issues**: 61 · **Commits**: 431
+- **Releases**: 16 · **Merged PRs**: 202 · **Open PRs**: 74 · **Closed issues**: 140 · **Open issues**: 61 · **Commits**: 432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 7 | 39 | 59 | 15 | 34 | 76 |
-| last60d | 2026-07-13 | 16 | 84 | 63 | 38 | 45 | 123 |
-| 90d | 2026-06-13 | 16 | 187 | 72 | 123 | 57 | 265 |
-| last180d | 2026-03-15 | 16 | 201 | 75 | 139 | 61 | 293 |
-| 360d | 2025-09-16 | 16 | 201 | 75 | 139 | 61 | 293 |
-| last720d | 2024-09-21 | 16 | 201 | 75 | 139 | 61 | 431 |
+| 30d | 2026-08-13 | 7 | 38 | 57 | 14 | 35 | 77 |
+| last60d | 2026-07-14 | 16 | 84 | 62 | 38 | 45 | 124 |
+| 90d | 2026-06-14 | 16 | 182 | 70 | 116 | 57 | 266 |
+| last180d | 2026-03-16 | 16 | 202 | 74 | 140 | 61 | 294 |
+| 360d | 2025-09-17 | 16 | 202 | 74 | 140 | 61 | 294 |
+| last720d | 2024-09-22 | 16 | 202 | 74 | 140 | 61 | 432 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:25:08Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:02:09Z._

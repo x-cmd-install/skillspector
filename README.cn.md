@@ -4,7 +4,7 @@
 
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
-[![x-cmd/install — skillspector Code Quality Monitoring Repo Card](https://repo.x-cmd.io/skillspector.svg?lang=zh)](https://x-cmd.com/install/skillspector)
+[![x-cmd/install — skillspector Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/skillspector.svg?lang=zh)](https://x-cmd.com/install/skillspector)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install skillspector
 
 ## 代码洞察
 
-合计: **118,824** 行代码（覆盖前 5 种语言、共 **269** 个文件）。
+合计: **121,990** 行代码（覆盖前 5 种语言、共 **271** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 117,294 | 5,626 | 16,902 | 254 |
+| Python | 120,379 | 5,778 | 17,226 | 256 |
 | TypeScript | 813 | 5 | 71 | 2 |
+| Yaml | 223 | 131 | 30 | 11 |
 | JavaScript | 217 | 4 | 16 | 1 |
-| Yaml | 142 | 116 | 30 | 11 |
 | Makefile | 112 | 20 | 22 | 1 |
 
 ## 源代码
@@ -33,27 +33,27 @@ x install skillspector
 ## 发布
 
 - **最新版本**: `v2.11.2` (2026-09-09)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 18,015 · **Fork**: 1,557 · **开放 issue**: 215 · **贡献者**: 81
+- **Star**: 18,125 · **Fork**: 1,570 · **开放 issue**: 222 · **贡献者**: 82
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 256 · **开放 PR**: 71 · **已关闭 issue**: 166 · **开放 issue**: 49 · **提交数**: 504
+- **发布数**: 16 · **已合并 PR**: 265 · **开放 PR**: 68 · **已关闭 issue**: 173 · **开放 issue**: 49 · **提交数**: 513
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 67 | 54 | 21 | 28 | 87 |
-| last60d | 2026-07-24 | 16 | 122 | 60 | 51 | 33 | 174 |
-| 90d | 2026-06-24 | 16 | 170 | 64 | 80 | 40 | 217 |
-| last180d | 2026-03-26 | 16 | 256 | 71 | 166 | 49 | 356 |
-| 360d | 2025-09-27 | 16 | 256 | 71 | 166 | 49 | 359 |
-| last720d | 2024-10-02 | 16 | 256 | 71 | 166 | 49 | 504 |
+| 30d | 2026-08-24 | 4 | 71 | 50 | 28 | 28 | 96 |
+| last60d | 2026-07-25 | 16 | 131 | 57 | 58 | 33 | 183 |
+| 90d | 2026-06-25 | 16 | 175 | 61 | 87 | 39 | 226 |
+| last180d | 2026-03-27 | 16 | 265 | 68 | 173 | 49 | 365 |
+| 360d | 2025-09-28 | 16 | 265 | 68 | 173 | 49 | 368 |
+| last720d | 2024-10-03 | 16 | 265 | 68 | 173 | 49 | 513 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ skillspector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:34:30Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:47:35Z._

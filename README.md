@@ -38,22 +38,22 @@ Total: **131,948** lines of code across **292** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,156 · **Forks**: 1,667 · **Open issues**: 257 · **Contributors**: 88
+- **Stars**: 19,310 · **Forks**: 1,687 · **Open issues**: 263 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 300 · **Open PRs**: 82 · **Closed issues**: 190 · **Open issues**: 67 · **Commits**: 618
+- **Releases**: 17 · **Merged PRs**: 300 · **Open PRs**: 85 · **Closed issues**: 190 · **Open issues**: 73 · **Commits**: 618
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 3 | 89 | 60 | 29 | 40 | 137 |
-| last60d | 2026-08-04 | 15 | 148 | 73 | 62 | 48 | 220 |
-| 90d | 2026-07-05 | 17 | 191 | 74 | 89 | 56 | 268 |
-| last180d | 2026-04-06 | 17 | 300 | 82 | 190 | 67 | 420 |
-| 360d | 2025-10-08 | 17 | 300 | 82 | 190 | 67 | 423 |
-| last720d | 2024-10-13 | 17 | 300 | 82 | 190 | 67 | 618 |
+| 30d | 2026-09-04 | 3 | 89 | 63 | 29 | 46 | 123 |
+| last60d | 2026-08-05 | 14 | 147 | 76 | 61 | 54 | 213 |
+| 90d | 2026-07-06 | 17 | 190 | 77 | 89 | 62 | 255 |
+| last180d | 2026-04-07 | 17 | 300 | 85 | 190 | 73 | 420 |
+| 360d | 2025-10-09 | 17 | 300 | 85 | 190 | 73 | 423 |
+| last720d | 2024-10-14 | 17 | 300 | 85 | 190 | 73 | 618 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:39:14Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T07:03:16Z._

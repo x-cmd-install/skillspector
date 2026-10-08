@@ -14,11 +14,11 @@ x install skillspector
 
 ## Code insight
 
-Total: **144,077** lines of code across **313** files in the top 5 languages.
+Total: **144,341** lines of code across **313** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 142,134 | 6,792 | 20,221 | 297 |
+| Python | 142,398 | 6,834 | 20,249 | 297 |
 | TypeScript | 971 | 7 | 83 | 2 |
 | Yaml | 354 | 192 | 65 | 12 |
 | JavaScript | 255 | 4 | 19 | 1 |
@@ -38,22 +38,22 @@ Total: **144,077** lines of code across **313** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,591 · **Forks**: 1,713 · **Open issues**: 281 · **Contributors**: 97
+- **Stars**: 19,667 · **Forks**: 1,718 · **Open issues**: 283 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 356 · **Open PRs**: 75 · **Closed issues**: 219 · **Open issues**: 62 · **Commits**: 1129
+- **Releases**: 17 · **Merged PRs**: 357 · **Open PRs**: 87 · **Closed issues**: 219 · **Open issues**: 64 · **Commits**: 1130
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 139 | 53 | 51 | 38 | 0 |
-| last60d | 2026-08-08 | 12 | 200 | 66 | 87 | 46 | 0 |
-| 90d | 2026-07-09 | 17 | 241 | 67 | 116 | 51 | 0 |
-| last180d | 2026-04-10 | 17 | 356 | 75 | 219 | 62 | 0 |
-| 360d | 2025-10-12 | 17 | 356 | 75 | 219 | 62 | 0 |
-| last720d | 2024-10-17 | 17 | 356 | 75 | 219 | 62 | 1129 |
+| 30d | 2026-09-08 | 2 | 138 | 64 | 50 | 40 | 292 |
+| last60d | 2026-08-09 | 11 | 201 | 78 | 86 | 48 | 391 |
+| 90d | 2026-07-10 | 17 | 241 | 79 | 116 | 53 | 433 |
+| last180d | 2026-04-11 | 17 | 357 | 87 | 219 | 64 | 598 |
+| 360d | 2025-10-13 | 17 | 357 | 87 | 219 | 64 | 601 |
+| last720d | 2024-10-18 | 17 | 357 | 87 | 219 | 64 | 1130 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:22:34Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:31:42Z._

@@ -14,11 +14,11 @@ x install skillspector
 
 ## 代码洞察
 
-合计: **171,942** 行代码（覆盖前 5 种语言、共 **339** 个文件）。
+合计: **173,748** 行代码（覆盖前 5 种语言、共 **341** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 169,744 | 7,718 | 23,270 | 323 |
+| Python | 171,550 | 7,794 | 23,490 | 325 |
 | TypeScript | 1,036 | 12 | 82 | 2 |
 | Yaml | 402 | 201 | 77 | 12 |
 | JavaScript | 397 | 4 | 31 | 1 |
@@ -32,35 +32,35 @@ x install skillspector
 
 ## 发布
 
-- **最新版本**: `v2.12.0` (2026-09-23)
+- **最新版本**: `v2.13.0` (2026-10-16)
 - **最近提交**: 2026-10-16
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 20,320 · **Fork**: 1,784 · **开放 issue**: 296 · **贡献者**: 101
+- **Star**: 20,389 · **Fork**: 1,792 · **开放 issue**: 297 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 390 · **开放 PR**: 80 · **已关闭 issue**: 234 · **开放 issue**: 62 · **提交数**: 1365
+- **发布数**: 18 · **已合并 PR**: 396 · **开放 PR**: 77 · **已关闭 issue**: 235 · **开放 issue**: 62 · **提交数**: 1483
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 121 | 55 | 51 | 37 | 312 |
-| last60d | 2026-08-17 | 6 | 217 | 68 | 93 | 46 | 445 |
-| 90d | 2026-07-18 | 17 | 266 | 72 | 122 | 51 | 499 |
-| last180d | 2026-04-19 | 17 | 390 | 80 | 234 | 62 | 669 |
-| 360d | 2025-10-21 | 17 | 390 | 80 | 234 | 62 | 672 |
-| last720d | 2024-10-26 | 17 | 390 | 80 | 234 | 62 | 1365 |
+| 30d | 2026-09-17 | 2 | 116 | 50 | 51 | 37 | 345 |
+| last60d | 2026-08-18 | 7 | 218 | 65 | 91 | 46 | 478 |
+| 90d | 2026-07-19 | 18 | 270 | 69 | 123 | 51 | 532 |
+| last180d | 2026-04-20 | 18 | 396 | 77 | 235 | 62 | 702 |
+| 360d | 2025-10-22 | 18 | 396 | 77 | 235 | 62 | 705 |
+| last720d | 2024-10-27 | 18 | 396 | 77 | 235 | 62 | 1483 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [skillspector-2.12.0-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.12.0/skillspector-2.12.0-py3-none-any.whl) | 649.9 KiB | `other` |
-| [skillspector-2.12.0.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.12.0/skillspector-2.12.0.tar.gz) | 1.5 MiB | `native/unknown` |
+| [skillspector-2.13.0-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.13.0/skillspector-2.13.0-py3-none-any.whl) | 778.0 KiB | `other` |
+| [skillspector-2.13.0.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.13.0/skillspector-2.13.0.tar.gz) | 1.8 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ skillspector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261016.yml` · 2026-10-16T05:48:42Z._
+_数据快照: `data/card/261017.yml` · 2026-10-17T05:34:28Z._

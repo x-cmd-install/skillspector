@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: skillspector
   visiblename: skillspector
-  version: 2.13.0
+  version: 2.13.1
   origversion: null
   status: newest
   summary: Security scanner for AI agent skills
@@ -14,7 +14,7 @@
   visiblename: skillspector
   version: 2.13.0
   origversion: 2.13.0-1.1
-  status: newest
+  status: outdated
   summary: Security scanner for AI agent skills
   licenses:
     - Apache-2.0

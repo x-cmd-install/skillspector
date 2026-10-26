@@ -38,22 +38,22 @@ Total: **177,259** lines of code across **347** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,383 · **Forks**: 1,885 · **Open issues**: 321 · **Contributors**: 102
+- **Stars**: 21,630 · **Forks**: 1,905 · **Open issues**: 322 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 412 · **Open PRs**: 90 · **Closed issues**: 243 · **Open issues**: 78 · **Commits**: 1698
+- **Releases**: 19 · **Merged PRs**: 412 · **Open PRs**: 91 · **Closed issues**: 243 · **Open issues**: 79 · **Commits**: 1698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 107 | 57 | 45 | 50 | 337 |
-| last60d | 2026-08-26 | 7 | 212 | 77 | 89 | 61 | 495 |
-| 90d | 2026-07-27 | 19 | 277 | 82 | 124 | 66 | 573 |
-| last180d | 2026-04-28 | 19 | 412 | 90 | 243 | 78 | 754 |
-| 360d | 2025-10-30 | 19 | 412 | 90 | 243 | 78 | 757 |
-| last720d | 2024-11-04 | 19 | 412 | 90 | 243 | 78 | 1698 |
+| 30d | 2026-09-26 | 2 | 104 | 58 | 43 | 49 | 267 |
+| last60d | 2026-08-27 | 6 | 210 | 77 | 85 | 60 | 462 |
+| 90d | 2026-07-28 | 18 | 277 | 83 | 121 | 66 | 563 |
+| last180d | 2026-04-29 | 19 | 412 | 91 | 243 | 79 | 754 |
+| 360d | 2025-10-31 | 19 | 412 | 91 | 243 | 79 | 757 |
+| last720d | 2024-11-05 | 19 | 412 | 91 | 243 | 79 | 1698 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **177,259** lines of code across **347** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **2** distros on [repology.org](https://repology.org/project/skillspector). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/skillspector). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -80,4 +80,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:53:55Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T06:02:02Z._

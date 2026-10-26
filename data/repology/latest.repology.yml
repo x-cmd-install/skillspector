@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: skillspector
+  binname: skillspector
+  visiblename: skillspector
+  version: 2.13.1
+  origversion: 2.13.1-1
+  status: newest
+  summary: Security scanner for AI agent skills (Claude Code, Cursor, and similar)
+  maintainers:
+    - vvs@aur
+  licenses:
+    - Apache-2.0
 - repo: homebrew
   srcname: skillspector
   visiblename: skillspector

@@ -1,0 +1,151 @@
+about:
+  description: "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+  license: Apache-2.0
+  homepage: https://docs.nvidia.com/skills/scanning-agent-skills
+  head: 54921c8
+  archived: false
+  latestVersion: "v2.13.2"
+  latestRelease: "v2.13.2"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T07:16:15Z
+timeline:
+  created: 2026-03-21
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-28
+  lastRelease: 2026-10-28
+  lastPrerelease: 
+popularity:
+  star: 23417
+  watcher: 79
+  fork: 2025
+  release: 20
+  contributor: 106
+  pullRequest: 596
+  issue: 338
+language:
+  Python: 8457455
+  TypeScript: 62649
+  JavaScript: 20663
+  YARA: 19288
+  Makefile: 5977
+  Shell: 2248
+  Dockerfile: 596
+totalBytes: 8568876
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 3
+    mergedPR: 119
+    openPR: 44
+    closedIssue: 56
+    openIssue: 29
+    commit: 309
+  last60d:
+    since: 2026-08-31
+    release: 6
+    mergedPR: 245
+    openPR: 61
+    closedIssue: 112
+    openIssue: 44
+    commit: 504
+  last90d:
+    since: 2026-08-01
+    release: 18
+    mergedPR: 308
+    openPR: 70
+    closedIssue: 147
+    openIssue: 50
+    commit: 605
+  last180d:
+    since: 2026-05-03
+    release: 20
+    mergedPR: 452
+    openPR: 78
+    closedIssue: 274
+    openIssue: 64
+    commit: 796
+  last360d:
+    since: 2025-11-04
+    release: 20
+    mergedPR: 452
+    openPR: 78
+    closedIssue: 274
+    openIssue: 64
+    commit: 799
+  last720d:
+    since: 2024-11-09
+    release: 20
+    mergedPR: 452
+    openPR: 78
+    closedIssue: 274
+    openIssue: 64
+    commit: 1750
+total:
+  release: 20
+  mergedPR: 452
+  openPR: 78
+  closedIssue: 274
+  openIssue: 64
+  commit: 1750
+---
+path: /home/runner/.x-repo/github.com/nvidia/skillspector
+collectedAt: 2026-10-30T07:16:20Z
+loc:
+  Python:
+    code: 181652
+    comments: 8211
+    blanks: 24759
+    files: 346
+  TypeScript:
+    code: 1036
+    comments: 12
+    blanks: 82
+    files: 2
+  Yaml:
+    code: 402
+    comments: 201
+    blanks: 77
+    files: 12
+  JavaScript:
+    code: 397
+    comments: 4
+    blanks: 31
+    files: 1
+  Makefile:
+    code: 116
+    comments: 20
+    blanks: 22
+    files: 1
+  Toml:
+    code: 108
+    comments: 3
+    blanks: 13
+    files: 1
+  Json:
+    code: 76
+    comments: 0
+    blanks: 0
+    files: 4
+  Sh:
+    code: 50
+    comments: 1
+    blanks: 13
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6865
+    blanks: 2217
+    files: 89
+total:
+  code: 184398
+  comments: 15434
+  blanks: 27301
+  files: 458
+---
+
+---

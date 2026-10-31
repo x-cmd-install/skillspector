@@ -14,11 +14,11 @@ x install skillspector
 
 ## Code insight
 
-Total: **183,851** lines of code across **362** files in the top 5 languages.
+Total: **184,152** lines of code across **364** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 181,652 | 8,211 | 24,759 | 346 |
+| Python | 181,953 | 8,269 | 24,807 | 348 |
 | TypeScript | 1,036 | 12 | 82 | 2 |
 | Yaml | 402 | 201 | 77 | 12 |
 | JavaScript | 397 | 4 | 31 | 1 |
@@ -33,27 +33,27 @@ Total: **183,851** lines of code across **362** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.13.2` (2026-10-28)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 23,417 · **Forks**: 2,025 · **Open issues**: 338 · **Contributors**: 106
+- **Stars**: 23,569 · **Forks**: 2,037 · **Open issues**: 345 · **Contributors**: 108
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 452 · **Open PRs**: 78 · **Closed issues**: 274 · **Open issues**: 64 · **Commits**: 1750
+- **Releases**: 20 · **Merged PRs**: 455 · **Open PRs**: 80 · **Closed issues**: 278 · **Open issues**: 67 · **Commits**: 1753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 119 | 44 | 56 | 29 | 309 |
-| last60d | 2026-08-31 | 6 | 245 | 61 | 112 | 44 | 504 |
-| 90d | 2026-08-01 | 18 | 308 | 70 | 147 | 50 | 605 |
-| last180d | 2026-05-03 | 20 | 452 | 78 | 274 | 64 | 796 |
-| 360d | 2025-11-04 | 20 | 452 | 78 | 274 | 64 | 799 |
-| last720d | 2024-11-09 | 20 | 452 | 78 | 274 | 64 | 1750 |
+| 30d | 2026-10-01 | 3 | 116 | 43 | 57 | 31 | 312 |
+| last60d | 2026-09-01 | 6 | 242 | 63 | 115 | 47 | 507 |
+| 90d | 2026-08-02 | 18 | 310 | 72 | 147 | 53 | 608 |
+| last180d | 2026-05-04 | 20 | 455 | 80 | 278 | 67 | 799 |
+| 360d | 2025-11-05 | 20 | 455 | 80 | 278 | 67 | 802 |
+| last720d | 2024-11-10 | 20 | 455 | 80 | 278 | 67 | 1753 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:16:25Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:06:02Z._

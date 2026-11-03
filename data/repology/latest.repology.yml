@@ -13,9 +13,16 @@
 - repo: homebrew
   srcname: skillspector
   visiblename: skillspector
-  version: 2.13.2
+  version: 2.13.3
   origversion: null
   status: newest
+  summary: Security scanner for AI agent skills
+- repo: homebrew
+  srcname: skillspector
+  visiblename: skillspector
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Security scanner for AI agent skills
 - repo: opensuse_tumbleweed
   subrepo: src-oss
@@ -24,8 +31,8 @@
     - skillspector
     - skillspector-mcp
   visiblename: skillspector
-  version: 2.13.0
-  origversion: 2.13.0-1.1
+  version: 2.13.2
+  origversion: 2.13.2-1.1
   status: outdated
   summary: Security scanner for AI agent skills
   licenses:

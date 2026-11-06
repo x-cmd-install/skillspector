@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: skillspector
   visiblename: skillspector
-  version: 2.13.3
+  version: 2.13.4
   origversion: null
   status: newest
   summary: Security scanner for AI agent skills

@@ -14,11 +14,11 @@ x install skillspector
 
 ## Code insight
 
-Total: **214,107** lines of code across **405** files in the top 5 languages.
+Total: **222,649** lines of code across **427** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 211,906 | 9,025 | 27,916 | 389 |
+| Python | 220,448 | 9,317 | 29,062 | 411 |
 | TypeScript | 1,036 | 12 | 82 | 2 |
 | Yaml | 402 | 201 | 77 | 12 |
 | JavaScript | 397 | 4 | 31 | 1 |
@@ -33,27 +33,27 @@ Total: **214,107** lines of code across **405** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.13.4` (2026-11-04)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 24,825 · **Forks**: 2,164 · **Open issues**: 376 · **Contributors**: 114
+- **Stars**: 25,141 · **Forks**: 2,201 · **Open issues**: 383 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 511 · **Open PRs**: 96 · **Closed issues**: 300 · **Open issues**: 76 · **Commits**: 2088
+- **Releases**: 22 · **Merged PRs**: 533 · **Open PRs**: 80 · **Closed issues**: 306 · **Open issues**: 77 · **Commits**: 2338
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 5 | 105 | 56 | 49 | 40 | 347 |
-| last60d | 2026-09-09 | 7 | 281 | 76 | 126 | 55 | 717 |
-| 90d | 2026-08-10 | 16 | 353 | 88 | 164 | 63 | 809 |
-| last180d | 2026-05-12 | 22 | 511 | 96 | 300 | 76 | 1012 |
-| 360d | 2025-11-13 | 22 | 511 | 96 | 300 | 76 | 1016 |
-| last720d | 2024-11-18 | 22 | 511 | 96 | 300 | 76 | 2088 |
+| 30d | 2026-10-11 | 5 | 123 | 41 | 54 | 42 | 376 |
+| last60d | 2026-09-11 | 6 | 293 | 59 | 128 | 55 | 799 |
+| 90d | 2026-08-12 | 13 | 370 | 70 | 169 | 63 | 902 |
+| last180d | 2026-05-14 | 22 | 533 | 80 | 306 | 77 | 1122 |
+| 360d | 2025-11-15 | 22 | 533 | 80 | 306 | 77 | 1127 |
+| last720d | 2024-11-20 | 22 | 533 | 80 | 306 | 77 | 2338 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/skillsp
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.13.4` | ✅ latest |
-| openSUSE Tumbleweed | `2.13.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.13.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:19:26Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:07:43Z._

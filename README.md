@@ -14,11 +14,11 @@ x install skillspector
 
 ## Code insight
 
-Total: **246,850** lines of code across **459** files in the top 5 languages.
+Total: **257,040** lines of code across **464** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 244,602 | 10,265 | 31,633 | 442 |
+| Python | 254,790 | 10,631 | 32,416 | 447 |
 | TypeScript | 1,040 | 12 | 82 | 2 |
 | JavaScript | 434 | 4 | 33 | 1 |
 | Yaml | 408 | 208 | 78 | 13 |
@@ -32,35 +32,35 @@ Total: **246,850** lines of code across **459** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.13.4` (2026-11-04)
-- **Last commit**: 2026-11-14
+- **Latest**: `v2.13.6` (2026-11-16)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 26,303 · **Forks**: 2,334 · **Open issues**: 407 · **Contributors**: 121
+- **Stars**: 26,862 · **Forks**: 2,392 · **Open issues**: 414 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 565 · **Open PRs**: 75 · **Closed issues**: 325 · **Open issues**: 82 · **Commits**: 3006
+- **Releases**: 24 · **Merged PRs**: 561 · **Open PRs**: 76 · **Closed issues**: 327 · **Open issues**: 87 · **Commits**: 3102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 127 | 39 | 56 | 48 | 526 |
-| last60d | 2026-09-17 | 6 | 280 | 56 | 135 | 63 | 932 |
-| 90d | 2026-08-18 | 11 | 386 | 66 | 179 | 68 | 1081 |
-| last180d | 2026-05-20 | 22 | 565 | 75 | 325 | 82 | 1326 |
-| 360d | 2025-11-21 | 22 | 565 | 75 | 325 | 82 | 1331 |
-| last720d | 2024-11-26 | 22 | 565 | 75 | 325 | 82 | 3006 |
+| 30d | 2026-10-20 | 6 | 124 | 41 | 48 | 46 | 598 |
+| last60d | 2026-09-20 | 8 | 282 | 56 | 133 | 66 | 1003 |
+| 90d | 2026-08-21 | 12 | 376 | 67 | 176 | 73 | 1152 |
+| last180d | 2026-05-23 | 24 | 561 | 76 | 327 | 87 | 1397 |
+| 360d | 2025-11-24 | 24 | 561 | 76 | 327 | 87 | 1402 |
+| last720d | 2024-11-29 | 24 | 561 | 76 | 327 | 87 | 3102 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [skillspector-2.13.4-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.13.4/skillspector-2.13.4-py3-none-any.whl) | 1.0 MiB | `other` |
-| [skillspector-2.13.4.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.13.4/skillspector-2.13.4.tar.gz) | 943.1 KiB | `native/unknown` |
+| [skillspector-2.13.6-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.13.6/skillspector-2.13.6-py3-none-any.whl) | 1.2 MiB | `other` |
+| [skillspector-2.13.6.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.13.6/skillspector-2.13.6.tar.gz) | 1.1 MiB | `native/unknown` |
 
 ## Distribution status
 
@@ -68,7 +68,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/skillsp
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.13.4` | ✅ latest |
+| Homebrew | `2.13.6` | ✅ latest |
 | openSUSE Tumbleweed | `2.13.3` | ⚠️ outdated |
 
 ## Improve this data
@@ -80,4 +80,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:44:49Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:11:42Z._

@@ -38,22 +38,22 @@ x install skillspector
 
 ## 流行度
 
-- **Star**: 27,474 · **Fork**: 2,454 · **开放 issue**: 424 · **贡献者**: 123
+- **Star**: 27,599 · **Fork**: 2,467 · **开放 issue**: 430 · **贡献者**: 123
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 579 · **开放 PR**: 74 · **已关闭 issue**: 339 · **开放 issue**: 85 · **提交数**: 3124
+- **发布数**: 25 · **已合并 PR**: 579 · **开放 PR**: 77 · **已关闭 issue**: 339 · **开放 issue**: 91 · **提交数**: 3124
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 133 | 39 | 54 | 46 | 576 |
-| last60d | 2026-09-25 | 8 | 280 | 51 | 133 | 63 | 936 |
-| 90d | 2026-08-26 | 13 | 379 | 64 | 182 | 71 | 1143 |
-| last180d | 2026-05-28 | 25 | 579 | 74 | 339 | 85 | 1415 |
-| 360d | 2025-11-29 | 25 | 579 | 74 | 339 | 85 | 1420 |
-| last720d | 2024-12-04 | 25 | 579 | 74 | 339 | 85 | 3124 |
+| 30d | 2026-10-26 | 6 | 131 | 41 | 52 | 52 | 576 |
+| last60d | 2026-09-26 | 8 | 277 | 54 | 130 | 68 | 936 |
+| 90d | 2026-08-27 | 12 | 376 | 67 | 176 | 77 | 1143 |
+| last180d | 2026-05-29 | 25 | 579 | 77 | 339 | 91 | 1415 |
+| 360d | 2025-11-30 | 25 | 579 | 77 | 339 | 91 | 1420 |
+| last720d | 2024-12-05 | 25 | 579 | 77 | 339 | 91 | 3124 |
 
 ## Release 资产
 
@@ -61,15 +61,6 @@ x install skillspector
 |------|-----:|----------|
 | [skillspector-2.13.7-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.13.7/skillspector-2.13.7-py3-none-any.whl) | 1.3 MiB | `other` |
 | [skillspector-2.13.7.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.13.7/skillspector-2.13.7.tar.gz) | 1.2 MiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/skillspector) 上共有 **4** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.13.6` | ✅ latest |
-| openSUSE Tumbleweed | `2.13.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -80,4 +71,4 @@ skillspector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:50:14Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:13:53Z._

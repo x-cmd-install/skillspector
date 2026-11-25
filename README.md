@@ -38,22 +38,22 @@ Total: **258,574** lines of code across **472** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,474 · **Forks**: 2,454 · **Open issues**: 424 · **Contributors**: 123
+- **Stars**: 27,599 · **Forks**: 2,467 · **Open issues**: 430 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 579 · **Open PRs**: 74 · **Closed issues**: 339 · **Open issues**: 85 · **Commits**: 3124
+- **Releases**: 25 · **Merged PRs**: 579 · **Open PRs**: 77 · **Closed issues**: 339 · **Open issues**: 91 · **Commits**: 3124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 133 | 39 | 54 | 46 | 576 |
-| last60d | 2026-09-25 | 8 | 280 | 51 | 133 | 63 | 936 |
-| 90d | 2026-08-26 | 13 | 379 | 64 | 182 | 71 | 1143 |
-| last180d | 2026-05-28 | 25 | 579 | 74 | 339 | 85 | 1415 |
-| 360d | 2025-11-29 | 25 | 579 | 74 | 339 | 85 | 1420 |
-| last720d | 2024-12-04 | 25 | 579 | 74 | 339 | 85 | 3124 |
+| 30d | 2026-10-26 | 6 | 131 | 41 | 52 | 52 | 576 |
+| last60d | 2026-09-26 | 8 | 277 | 54 | 130 | 68 | 936 |
+| 90d | 2026-08-27 | 12 | 376 | 67 | 176 | 77 | 1143 |
+| last180d | 2026-05-29 | 25 | 579 | 77 | 339 | 91 | 1415 |
+| 360d | 2025-11-30 | 25 | 579 | 77 | 339 | 91 | 1420 |
+| last720d | 2024-12-05 | 25 | 579 | 77 | 339 | 91 | 3124 |
 
 ## Release assets
 
@@ -61,15 +61,6 @@ Total: **258,574** lines of code across **472** files in the top 5 languages.
 |-------|-----:|--------|
 | [skillspector-2.13.7-py3-none-any.whl](https://github.com/nvidia/skillspector/releases/download/v2.13.7/skillspector-2.13.7-py3-none-any.whl) | 1.3 MiB | `other` |
 | [skillspector-2.13.7.tar.gz](https://github.com/nvidia/skillspector/releases/download/v2.13.7/skillspector-2.13.7.tar.gz) | 1.2 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/skillspector). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.13.6` | ✅ latest |
-| openSUSE Tumbleweed | `2.13.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -80,4 +71,4 @@ Install metadata for skillspector lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:50:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:13:52Z._
